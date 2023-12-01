@@ -1,0 +1,2 @@
+label : Pos, Neg, Neutral
+이모티콘 유지

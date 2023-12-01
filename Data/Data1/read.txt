@@ -1,0 +1,27 @@
+label : Pos(1), Neg(2), Neutral(0)
+이모티콘 지움
+
+<Neg> 52
+Pos: 1
+Neg: 47
+Neutral: 4
+
+<Neutral> 73
+Pos: 5
+Neg: 0
+Neutral: 68
+
+<Pos> 84
+Pos: 48
+Neg: 2
+Neutral: 34
+
+----tweetData.csv--------------
+Pos : 54
+Neg : 49
+Neutral : 106
+
+----tweetData2.csv--------------
+Pos : 54
+Neg : 49
+Neutral : 56

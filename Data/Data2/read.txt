@@ -1,0 +1,5 @@
+label : Pos, Neg
+이모티콘 지움
+
+Pos: 84
+Neg: 75
